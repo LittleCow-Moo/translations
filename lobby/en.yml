@@ -9,3 +9,19 @@ lobby:
       line2: "Now press the button to continue."
     impossible:
       name: "Impossible"
+  afk:
+    prefix: AFK
+    no_afk_players: There are currently no AFK players.
+    call_notification: is calling you. Click the button to turn off the chime.
+    auto_disable_leave:
+      part1: 'AFK mode disabled because AFK player '
+      part2: ' left the server.'
+    afk_failed: Failed to enter AFK mode.
+    removed_from_afk_room:
+      part1: 'AFK player '
+      part2: ' has been removed from the AFK room.'
+    no_response_timeout: No response within 20 seconds.
+    storage_corrupted_repairing: AFK storage system corrupted, attempting 
+      automatic repair...
+    storage_repaired: AFK storage system repaired successfully. Please re-enable
+      AFK mode.
