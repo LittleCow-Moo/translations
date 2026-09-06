@@ -24,3 +24,6 @@ lobby:
     storage_corrupted_repairing: AFK 資料庫歹去--ah，這馬當咧試看覓仔自動修理...
     storage_repaired: AFK 資料庫好--ah，請共 AFK 模式閣拍開一遍
     stopped_chime: ' 共鈴聲關掉--ah'
+    is_back: ' 轉來--ah'
+    enter_afk: ' AFK--ah'
+  error: 錯誤
