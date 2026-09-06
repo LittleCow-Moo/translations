@@ -1,1 +1,10 @@
-{}
+lobby:
+  parkour:
+    prefix: ロビー パルクール
+    normal:
+      name: 普通
+      line1:
+        part2: ' のパルクールゲームを85％終わるおめでとう！'
+      line2: それでは、ボタンを押してください!
+    impossible:
+      name: 無理難題
