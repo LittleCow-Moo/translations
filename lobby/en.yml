@@ -25,3 +25,4 @@ lobby:
       automatic repair...
     storage_repaired: AFK storage system repaired successfully. Please re-enable
       AFK mode.
+    stopped_chime: ' stopped the chime'
