@@ -1,1 +1,11 @@
-{}
+lobby:
+  parkour:
+    prefix: 大廳跑酷
+    normal:
+      name: 正常模式
+      line1:
+        part1: '恭喜你完成--ah 85% ê '
+        part2: ' 跑酷遊戲!'
+      line2: 共揤鈕揤落去繼續!
+    impossible:
+      name: 無可能--ê難度
