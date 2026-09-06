@@ -8,3 +8,18 @@ lobby:
       line2: それでは、ボタンを押してください!
     impossible:
       name: 無理難題
+  afk:
+    prefix: AFK
+    no_afk_players: 現在は誰もAFKしていませんよ
+    call_notification: ' さんはコールしています、ボタンを押すと鐘を止めます'
+    auto_disable_leave:
+      part1: '現在のAFKユーザー '
+      part2: ' がサーバを退出しましたから、AFK モードは終わりました'
+    afk_failed: AFKが失敗した
+    removed_from_afk_room:
+      part1: '現在のAFKユーザ '
+      part2: ' はAFKロビーから出させられました'
+    no_response_timeout: ' さんは20秒で返信しませんでした'
+    storage_corrupted_repairing: AFK ストレージシステムが破損した，自動修理しています...
+    storage_repaired: AFK ストレージシステムは修理完了，AFKモードをつけてください
+    stopped_chime: ' さんは鐘を止めました'
