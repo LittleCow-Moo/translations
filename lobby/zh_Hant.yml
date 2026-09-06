@@ -24,3 +24,6 @@ lobby:
     storage_corrupted_repairing: AFK 存儲系統已損壞，正在嘗試自動修復...
     storage_repaired: AFK 存儲系統修復完成，請再次啟動掛機模式
     stopped_chime: ' 停止了鈴聲'
+    is_back: ' 回來了'
+    enter_afk: ' 進入 AFK 狀態'
+  error: 錯誤
