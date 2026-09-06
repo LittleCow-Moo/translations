@@ -23,3 +23,4 @@ lobby:
     no_response_timeout: ' 在20秒內沒有回應'
     storage_corrupted_repairing: AFK 存儲系統已損壞，正在嘗試自動修復...
     storage_repaired: AFK 存儲系統修復完成，請再次啟動掛機模式
+    stopped_chime: ' 停止了鈴聲'
