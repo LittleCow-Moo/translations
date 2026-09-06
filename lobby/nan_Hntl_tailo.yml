@@ -9,3 +9,17 @@ lobby:
       line2: 共揤鈕揤落去繼續!
     impossible:
       name: 無可能--ê難度
+  afk:
+    afk_failed: 無法度拍開 AFK 模式
+    call_notification: ' 佇咧叫你，揤揤鈕會使共鈴聲關掉'
+    no_response_timeout: ' 佇 20 秒內底無回應'
+    auto_disable_leave:
+      part1: '因為這馬當咧 AFK--ê 奕者 '
+      part2: ' 離開--ah伺服器，AFK 模式已經關掉--ah'
+    no_afk_players: 這馬無當咧 AFK--ê 奕者
+    removed_from_afk_room:
+      part1: 'AFK--ê 奕者 '
+      part2: ' 已經予人移出 AFK 房間--ah'
+    prefix: AFK
+    storage_corrupted_repairing: AFK 資料庫歹去--ah，這馬當咧試看覓仔自動修理...
+    storage_repaired: AFK 資料庫好--ah，請共 AFK 模式閣拍開一遍
