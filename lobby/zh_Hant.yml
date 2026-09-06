@@ -9,3 +9,17 @@ lobby:
       line2: 按下按鈕繼續!
     impossible:
       name: 無解難度
+  afk:
+    prefix: 掛機
+    no_afk_players: 目前沒有掛機中的玩家
+    call_notification: ' 正在呼叫你，點擊按鈕取消鈴聲'
+    auto_disable_leave:
+      part1: '由於目前 AFK 玩家 '
+      part2: ' 離開伺服器，AFK 模式已關閉'
+    afk_failed: 掛機失敗
+    removed_from_afk_room:
+      part1: '目前掛機玩家 '
+      part2: ' 已被移出掛機室'
+    no_response_timeout: ' 在20秒內沒有回應'
+    storage_corrupted_repairing: AFK 存儲系統已損壞，正在嘗試自動修復...
+    storage_repaired: AFK 存儲系統修復完成，請再次啟動掛機模式
