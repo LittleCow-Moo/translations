@@ -1,0 +1,11 @@
+lobby:
+  parkour:
+    prefix: "Lobby Parkour"
+    normal:
+      name: "Normal"
+      line1:
+        part1: "Congratulations for finishing 85% of the "
+        part2: " parkour game!"
+      line2: "Now press the button to continue."
+    impossible:
+      name: "Impossible"
