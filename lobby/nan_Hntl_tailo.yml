@@ -27,3 +27,15 @@ lobby:
     is_back: ' 轉來--ah'
     enter_afk: ' AFK--ah'
   error: 錯誤
+  hideitem:
+    prefix: 奕者顯示
+    players: 奕者
+    shown: 顯示
+    hidden: 隱藏
+    click_to_hide: 揤落會當隱藏奕者
+    click_to_show: 揤落會當顯示奕者
+    hide_success: 已經共所有--ê奕者藏起來--ah!
+    show_success: 已經共所有--ê奕者顯示出來--ah!
+    cooldown:
+      part1: 請等
+      part2: 秒才閣試一擺
