@@ -29,3 +29,15 @@ lobby:
     is_back: ' is back'
     enter_afk: ' entered AFK status'
   error: Error
+  hideitem:
+    prefix: Player Visibility
+    players: Players
+    shown: Shown
+    hidden: Hidden
+    click_to_hide: Click to hide players
+    click_to_show: Click to show players
+    hide_success: Hidden all players!
+    show_success: Shown all players!
+    cooldown:
+      part1: This item is on cooldown for
+      part2: seconds.
