@@ -27,3 +27,15 @@ lobby:
     is_back: ' 回來了'
     enter_afk: ' 進入 AFK 狀態'
   error: 錯誤
+  hideitem:
+    prefix: 玩家顯示
+    players: 玩家
+    shown: 顯示
+    hidden: 隱藏
+    click_to_hide: 點擊以隱藏玩家
+    click_to_show: 點擊以顯示玩家
+    hide_success: 已隱藏所有玩家!
+    show_success: 已顯示所有玩家!
+    cooldown:
+      part1: 該道具的冷卻時間還有
+      part2: 秒
