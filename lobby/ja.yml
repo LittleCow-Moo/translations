@@ -34,8 +34,8 @@ lobby:
     hidden: 隠す
     click_to_hide: クリックして隠す
     click_to_show: クリックして表示する
-    hide_success: 皆は隠しました!
-    show_success: 皆は表示しました!
+    hide_success: 皆は隠されました!
+    show_success: 皆は表示されしました!
     cooldown:
       part1: このアイテムは
       part2: 秒間でクールダウンです
