@@ -25,5 +25,17 @@ lobby:
     storage_repaired: AFK ストレージシステムは修理完了，AFKモードをつけてください
     stopped_chime: ' さんは鐘を止めました'
     is_back: ' さんは帰りました'
-    enter_afk: ' さんはAFKモードを始めます'
+    enter_afk: ' さんはAFKモードを始めました'
   error: エラー
+  hideitem:
+    prefix: プレーヤーを表示
+    players: プレーヤー
+    shown: 表示する
+    hidden: 隠す
+    click_to_hide: クリックして隠す
+    click_to_show: クリックして表示する
+    hide_success: 皆は隠しました!
+    show_success: 皆は表示しました!
+    cooldown:
+      part1: このアイテムは
+      part2: 秒間でクールダウンです
