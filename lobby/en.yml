@@ -42,16 +42,16 @@ lobby:
       part1: This item is on cooldown for
       part2: seconds.
   hubpvp:
-    prefix: 大廳 PvP
-    sword_of_pvp: PvP 之劍
-    hold_to_enable_pvp: 手持此劍以啟用 PvP !
-    pvp_enabled: PvP 已啟用!
+    prefix: Lobby PvP
+    sword_of_pvp: Sword of PvP
+    hold_to_enable_pvp: Hold this sword to enable PvP!
+    pvp_enabled: PvP is now enabled!
     pvp_enabling:
-      part1: PvP 將在
-      part2: 秒內啟用
-    pvp_disabled: PvP 已停用!
+      part1: PvP will be enabled in
+      part2: second(s)
+    pvp_disabled: PvP is now disabled!
     pvp_disabling:
-      part1: PvP 將在
-      part2: 秒內停用
-    killed: 殺了你。
-    killed_other: 你殺了
+      part1: PvP will be disabled in
+      part2: second(s)
+    killed: killed you.
+    killed_other: You killed
