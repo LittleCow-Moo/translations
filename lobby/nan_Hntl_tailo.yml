@@ -39,3 +39,17 @@ lobby:
     cooldown:
       part1: 請等
       part2: 秒才閣試一擺
+  hubpvp:
+    prefix: 大廳 PvP
+    sword_of_pvp: PvP 寶劍
+    hold_to_enable_pvp: 提這支劍會使啟用 PvP !
+    pvp_enabled: PvP 啟用--ah!
+    pvp_enabling:
+      part1: PvP 會佇
+      part2: 秒內底啟用
+    killed: 共你刣死--ah。
+    pvp_disabling:
+      part1: PvP 會佇
+      part2: 秒內底停用
+    pvp_disabled: PvP 停用--ah!
+    killed_other: 你刣死--ah
