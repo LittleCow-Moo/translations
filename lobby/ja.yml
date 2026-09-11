@@ -39,3 +39,17 @@ lobby:
     cooldown:
       part1: このアイテムは
       part2: 秒間でクールダウンです
+  hubpvp:
+    prefix: ロビーPvP
+    sword_of_pvp: PvPの剣
+    hold_to_enable_pvp: この剣をもって、PvPが始めます!
+    pvp_enabled: PvP は始めました!
+    pvp_enabling:
+      part1: PvP が
+      part2: 秒で始められます
+    pvp_disabled: PvP が止められました!
+    pvp_disabling:
+      part1: PvP が
+      part2: 秒で止められます
+    killed: さんはあなたがころされました。
+    killed_other: このプレーヤーが殺しました：
