@@ -53,3 +53,17 @@ lobby:
       part2: 秒内禁用
     killed: 杀了你。
     killed_other: 你杀了
+  rule_book:
+    title: 服务器规定
+    author: 牛牛
+    content:
+      intro: '游玩本服务器的玩家都须遵守以下规定:'
+      moo: 哞!
+      rule1: 禁止洗版
+      rule2: 禁止宣传/广告
+      rule3: 禁止请求管理员权限
+      rule4: 尊重所有玩家
+      rule5: 遵守法律
+      rule6: 禁止发表种族歧视或性别歧视言论
+      rule7: 禁止使用任何方法影响服务器正常运作
+      rule8: 禁止使用任何外挂
