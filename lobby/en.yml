@@ -55,3 +55,17 @@ lobby:
       part2: second(s)
     killed: killed you.
     killed_other: You killed
+  rule_book:
+    title: Server Rules
+    author: Little Cow
+    content:
+      intro: 'All players on this server must comply with the following rules:'
+      moo: Moo!
+      rule1: Spamming is prohibited
+      rule2: Advertising/Promotions are prohibited
+      rule3: Requesting admin permissions is prohibited
+      rule4: Respect all players
+      rule5: Abide by the law
+      rule6: Racial or gender discrimination/hate speech is prohibited
+      rule7: Any attempt to disrupt normal server operation is prohibited
+      rule8: Use of any hacks/cheats is prohibited
