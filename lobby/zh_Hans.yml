@@ -1,1 +1,55 @@
-{}
+lobby:
+  parkour:
+    prefix: 大厅跑酷
+    normal:
+      name: 正常模式
+      line1:
+        part1: '恭喜你完成了 85% 的 '
+        part2: ' 跑酷游戏!'
+      line2: 按下按钮继续!
+    impossible:
+      name: 无解难度
+  afk:
+    prefix: 挂机
+    no_afk_players: 目前没有挂机中的玩家
+    call_notification: ' 正在呼叫你，点击按钮取消铃声'
+    auto_disable_leave:
+      part1: '由于目前 AFK 玩家 '
+      part2: ' 离开服务器，AFK 模式已关闭'
+    afk_failed: 挂机失败
+    removed_from_afk_room:
+      part1: '目前挂机玩家 '
+      part2: ' 已被移出挂机室'
+    no_response_timeout: ' 在20秒内没有回应'
+    storage_corrupted_repairing: AFK 存储系统已损坏，正在尝试自动修复...
+    storage_repaired: AFK 存储系统修复完成，请再次启动挂机模式
+    stopped_chime: ' 停止了铃声'
+    is_back: ' 回来了'
+    enter_afk: ' 进入 AFK 状态'
+  error: 错误
+  hideitem:
+    prefix: 玩家显示
+    players: 玩家
+    shown: 显示
+    hidden: 隐藏
+    click_to_hide: 点击以隐藏玩家
+    click_to_show: 点击以显示玩家
+    hide_success: 已隐藏所有玩家!
+    show_success: 已显示所有玩家!
+    cooldown:
+      part1: 该道具的冷却时间还有
+      part2: 秒
+  hubpvp:
+    prefix: 大厅 PvP
+    sword_of_pvp: PvP 之剑
+    hold_to_enable_pvp: 手持此剑以激活 PvP !
+    pvp_enabled: PvP 已激活!
+    pvp_enabling:
+      part1: PvP 将在
+      part2: 秒内激活
+    pvp_disabled: PvP 已禁用!
+    pvp_disabling:
+      part1: PvP 将在
+      part2: 秒内禁用
+    killed: 杀了你。
+    killed_other: 你杀了
