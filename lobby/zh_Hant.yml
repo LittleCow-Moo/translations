@@ -53,3 +53,17 @@ lobby:
       part2: 秒內停用
     killed: 殺了你。
     killed_other: 你殺了
+  rule_book:
+    title: 伺服器規定
+    author: 牛牛
+    content:
+      intro: '遊玩本伺服器的玩家都須遵守以下規定:'
+      moo: 哞!
+      rule1: 禁止洗版
+      rule2: 禁止宣傳/廣告
+      rule3: 禁止請求管理員權限
+      rule4: 尊重所有玩家
+      rule5: 遵守法律
+      rule6: 禁止發表種族歧視或性別歧視言論
+      rule7: 禁止使用任何方法影響伺服器正常運作
+      rule8: 禁止使用任何外掛
