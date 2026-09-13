@@ -53,3 +53,14 @@ lobby:
       part2: 秒內底停用
     pvp_disabled: PvP 停用--ah!
     killed_other: 你刣死--ah
+  rule_book:
+    title: 伺服器規定
+    author: 牛牛
+    content:
+      intro: '佇這个伺服器內底耍--ē奕者攏愛遵守下面--ē規定:'
+      moo: Môo!
+      rule1: 禁止洗版
+      rule2: 禁止宣傳/廣告
+      rule3: 禁止討管理員權限
+      rule4: 尊重所有--ê奕者
+      rule5: 遵守法律
