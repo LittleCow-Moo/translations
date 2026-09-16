@@ -70,3 +70,20 @@ lobby:
       rule7: Any attempt to disrupt normal server operation is prohibited
       rule8: Use of any hacks/cheats is prohibited
     lore: All players must follow these rules
+  omikuji:
+    on_cooldown: See you tomorrow! You have already used today's omikuji!
+    part1: Today's Omikuji
+    part2: 's fortune is here
+    part3: The fortune slip has been tied to the shrine. Leave your bad luck here and spend your time peacefully.
+    type: Fortune
+    great_blessing: Great Blessing
+    middle_blessing: Middle Blessing
+    small_blessing: Small Blessing
+    blessing: Blessing
+    feture_blessing: Future Blessing
+    small_curse: Small Curse
+    curse: Curse
+    great_curse: Great Curse
+    max_luck: Overall Luck
+    yoroshii: Good
+    imu: Bad
