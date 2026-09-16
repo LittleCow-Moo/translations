@@ -74,7 +74,8 @@ lobby:
     on_cooldown: "See you tomorrow! You have already used today's omikuji!"
     part1: "Today's Omikuji"
     part2: "'s fortune is here"
-    part3: The fortune slip has been tied to the shrine. Leave your bad luck here and spend your time peacefully.
+    part3: The fortune slip has been tied to the shrine. Leave your bad luck 
+      here and spend your time peacefully.
     type: Fortune
     great_blessing: Great Blessing
     middle_blessing: Middle Blessing
@@ -87,3 +88,206 @@ lobby:
     max_luck: Overall Luck
     yoroshii: Good
     imu: Bad
+    result:
+      '1': A tailwind blows. Proceed as you wish.
+      '2': Your efforts will bloom into magnificent flowers.
+      '3': Cast away hesitation. Victory is right before your eyes.
+      '4': A miraculous match. Do not forget to be grateful.
+      '5': Every choice you make leads to the correct answer.
+      '6': The future you wish for has already begun to move.
+      '7': Blessed with good connections, your heart will be fulfilled.
+      '8': Have confidence and aim for the highest peak.
+      '9': Light illuminates your path. You have nothing to fear.
+      '10': A flash of inspiration like a miracle will open new doors.
+      '11': Proceed without rushing, and your path will surely bear fruit.
+      '12': Keep smiling, and good fortune will come your way.
+      '13': Small daily efforts lead to grand accomplishments.
+      '14': Appreciate the help of those around you as you move forward.
+      '15': Preparation is complete. Now, take the first step.
+      '16': Favorable winds are blowing for your new challenges.
+      '17': Trust your intuition; taking action brings good luck.
+      '18': The results of your hard work are becoming visible.
+      '19': Sincere responses will attract positive energy.
+      '20': Joyful news arrives amid peaceful days.
+      '21': Do not fear failure. Lessons learned become your strength.
+      '22': A day when bonds with precious people deepen.
+      '23': An honest mindset will bring about good results.
+      '24': Maintaining your own pace is the key to success.
+      '25': Small acts of kindness return as great happiness.
+      '26': One step at a time is fine. Just don't step backward.
+      '27': A period to firmly solidify your foundation.
+      '28': Haste makes waste. Choose the reliable path.
+      '29': A modest attitude keeps misfortune at bay.
+      '30': Spending quality time on yourself brings good luck.
+      '31': Restrain urges and focus on the task right in front of you.
+      '32': Mind your words, and your fortune will stabilize.
+      '33': Take a short rest to build up your strength.
+      '34': Look for small moments of happiness in ordinary daily life.
+      '35': Listening to the advice of others is a wise choice.
+      '36': Don't push yourself; be honest with your heart.
+      '37': Tidying up your space brings in a fresh breeze.
+      '38': Keeping small promises builds lasting trust.
+      '39': Impatience is forbidden. Time will solve things.
+      '40': Reading a book to gain new knowledge brings good fortune.
+      '41': Keep composure and enjoy life's small changes.
+      '42': Kindness without expecting returns brings good fortune.
+      '43': Cherishing old belongings opens up new paths.
+      '44': Avoid greed and maintain a contented heart.
+      '45': Calm your mind in a quiet environment.
+      '46': Ordinary daily life is the greatest happiness.
+      '47': As long as you remember your original intention, the way will open.
+      '48': Walk step by step at your own natural pace.
+      '49': Accumulating small joys is essential.
+      '50': Approach others with sincerity, and your thoughts will reach them.
+      '51': Working for the sake of others nourishes your own spirit.
+      '52': Choose a safe path rather than reckless adventure.
+      '53': Give thanks for the unchanging routine of life.
+      '54': Stay smiling, and you can overcome any trouble.
+      '55': Decisions made after careful thought are correct.
+      '56': Cherishing those close to you is a shortcut to happiness.
+      '57': Do not look back at the past; focus only on the future.
+      '58': A humble attitude enhances your personal charm.
+      '59': Do not overlook the small fortunes around you.
+      '60': Spending time peacefully will stabilize your fortune.
+      '61': Do not panic; wait for your own perfect timing.
+      '62': Take pride in the choices you have made.
+      '63': Paying attention to health is the foundation of everything.
+      '64': An unyielding spirit brightly illuminates tomorrow.
+      '65': Cleansing your surroundings elevates your energy.
+      '66': Now is a time to endure. Wait for the day to sprout.
+      '67': Steady efforts will nourish your future.
+      '68': Don't panic. There is still plenty of time.
+      '69': Small improvements create significant changes.
+      '70': Re-examine your current footing and solidify preparations.
+      '71': Avoid overreaching; cherish the happiness you currently hold.
+      '72': Even if progress is slow, going forward is all that matters.
+      '73': Accept the advice of those around you with an open mind.
+      '74': As long as you avoid greed, you will live peacefully.
+      '75': This is a preparation phase. Accumulate your strength.
+      '76': Acting in haste brings loss. Be prudent.
+      '77': What seems like a detour may actually be the shortcut.
+      '78': Maintain gratitude for ordinary, uninterrupted days.
+      '79': Handle matters sincerely to escape difficulty.
+      '80': Signs show fortune turning upward in the second half.
+      '81': Attention tends to wander. Do not neglect double-checking.
+      '82': Minor mistakes pile up easily. Proceed cautiously.
+      '83': Beware of sweet talk. Signs point to deceit.
+      '84': An unreasonable schedule leads to poor health.
+      '85': Selfish actions will incur resentment from others.
+      '86': Do not panic even if things don't go according to plan.
+      '87': Watch out for shopping regrets. Don't buy unnecessary items.
+      '88': Miscommunication could develop into an argument.
+      '89': Watch your belongings. Keep valuables close by.
+      '90': Following gossip will result in painful consequences.
+      '91': Failing to keep appointments loses trust.
+      '92': Trying to show off leads to excessive spending.
+      '93': Fatigue accumulates easily. Overexertion is forbidden.
+      '94': Do not be stubborn; keep a flexible attitude.
+      '95': Avoid standing out today; keep a low profile.
+      '96': Impatience is forbidden. Remain still and await opportunity.
+      '97': Mind your phrasing; misunderstandings arise easily.
+      '98': Unreasonable plans lead to collapse. Re-evaluate them.
+      '99': Avoid major purchases; exercise caution in finances.
+      '100': Sweet words have hidden motives. Stay vigilant.
+      '101': Acknowledge your mistakes and apologize sincerely.
+      '102': Do not neglect health management. Overexertion is harmful.
+      '103': Stubbornness will cause you to lose precious things.
+      '104': Even if things go wrong, do not become bitter.
+      '105': Keep secrets safe. Rash actions could prove fatal.
+      '106': Watch out for friction. Have the courage to step back.
+      '107': Trying to save face will result in deep regret later.
+      '108': Be mindful of lost items. Keep valuable things at hand.
+      '109': Speaking out of emotion is the source of conflict.
+      '110': Now is a time to endure. The rain will eventually stop.
+      '111': Forceful actions ruin you. Spend your time quietly.
+      '112': Though you feel in darkness, do not lose composure.
+      '113': Time to re-examine what you trust. Be cautious.
+      '114': A major obstacle blocks your path. Turn back.
+      '115': Watch out for relationship drama. Do not get involved.
+      '116': Overconfidence is dangerous. Know your limits.
+      '117': Do not fear loss; prepare to make a fresh start.
+      '118': Whatever you do backfires now. Keep quiet and low.
+      '119': Trouble ahead. Stay away from dangerous situations.
+      '120': Once at rock bottom, the only way left is up.
+      yoroshii:
+        '1': Morning walk
+        '2': Tidying desk
+        '3': Early rest
+        '4': Airing out the room
+        '5': Staying hydrated
+        '6': Trying new challenges
+        '7': Contacting friends
+        '8': Reading books
+        '9': Stretching exercises
+        '10': Polishing shoes
+        '11': Making plans
+        '12': Expressing gratitude
+        '13': Taking a long bath
+        '14': Listening to favorite music
+        '15': Cleaning the room
+        '16': Deep breathing
+        '17': Early rising habit
+        '18': Writing a diary
+        '19': Eating vegetables
+        '20': Cleaning up smartphone storage
+        '21': Wearing new shoes
+        '22': Greeting loudly
+        '23': Taking a detour on a walk
+        '24': Nail care
+        '25': Wearing favorite clothes
+        '26': Digital detox
+        '27': Drinking good tea
+        '28': Spending time with a smile
+        '29': Reconfirming goals
+        '30': Watering plants
+        '31': Exploring new shops
+        '32': Preparing early for sleep
+        '33': Aligning shoes neatly
+        '34': Drinking warm beverages
+        '35': Reflecting on behavior
+        '36': Rewarding yourself
+        '37': Light exercise
+        '38': Taking notes of ideas
+        '39': Checking appointments
+        '40': Departing early
+      imu:
+        '1': Hasty decisions
+        '2': Impulse buying
+        '3': Staying up late
+        '4': Overeating and drinking
+        '5': Excessive phone time
+        '6': Speaking ill of others
+        '7': Being late
+        '8': Oversleeping / Sleeping in
+        '9': Over-suppressing emotions
+        '10': Forgetting promises
+        '11': Hoarding goods
+        '12': Venting complaints
+        '13': Comparing yourself to others
+        '14': Leaving room messy
+        '15': Wasting money
+        '16': Excessive social media use
+        '17': Consuming too many cold drinks
+        '18': Self-negation
+        '19': Sudden schedule changes
+        '20': Entering dangerous areas
+        '21': Excessive caffeine intake
+        '22': Vague responses
+        '23': Incurring debts or favors
+        '24': Long phone calls
+        '25': Being vain / Saving face
+        '26': Excessive hard workouts
+        '27': Over-relying on others
+        '28': Unplanned outings
+        '29': Leaving important documents unattended
+        '30': Emotional outbursts
+        '31': Walking while staring at phone
+        '32': Leaving food uneaten
+        '33': Excessive multitasking
+        '34': Interrupting others
+        '35': Bottling up stress
+        '36': Sitting for too long
+        '37': Unkempt appearance
+        '38': Postponing decisions
+        '39': Lack of double-checking
+        '40': Prying into others' privacy
