@@ -1,0 +1,30 @@
+parkour:
+  prefix: Parkour
+  alreadyin: You are already in parkour!
+  start: Start parkour!
+  score_part1: Score
+  beatrecord_part1: Congratulations!
+  beatrecord_part2: You beat your previous high score
+  beatrecord_ingame_part2: You just beat your high score! Keep it up!
+  block: Nope!
+  top_format_part2: jumps
+  fall_normal_part1: You fell!
+  fall_normal_part2: Your score was
+  fall_force_base: Your parkour game has ended because
+  fall_force_reasons_teleport: " you teleported."
+  fall_force_reasons_afk: " You went AFK."
+  made_first_jump: You made your first jump!
+  you_jumped_part1: You jumped
+  you_jumped_part2: times!
+  selector:
+    name: Block Selector
+    items:
+      random:
+        title: Random Block
+        lore: A random block will be selected.
+      selected:
+        lore: Currently selected
+      nextpage:
+        name: Next Page
+      prevpage:
+        name: Previous Page
