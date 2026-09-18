@@ -1,1 +1,30 @@
-{}
+parkour:
+  prefix: 跑酷
+  alreadyin: 你已經在跑酷中了!
+  start: 開始跑酷!
+  score_part1: 分數
+  beatrecord_part1: 恭喜!
+  beatrecord_part2: 你打破了以前的最高分
+  beatrecord_ingame_part2: 你剛剛打破了你的最高分!繼續加油!
+  block: 不行!
+  top_format_part2: 次跳躍
+  fall_normal_part1: 你掉下去了!
+  fall_normal_part2: 你的得分是
+  fall_force_base: 你的跑酷遊戲已結束，因為
+  fall_force_reasons_teleport: 你傳送了
+  fall_force_reasons_afk: 你進入了AFK狀態。
+  made_first_jump: 你跳了第一下!
+  you_jumped_part1: 你跳了
+  you_jumped_part2: 下!
+  selector:
+    name: 方塊選擇器
+    items:
+      random:
+        title: 隨機方塊
+        lore: 將選擇一個隨機方塊。
+      selected:
+        lore: 當前已選擇
+      nextpage:
+        name: 下一頁
+      prevpage:
+        name: 上一頁
