@@ -12,7 +12,7 @@ parkour:
   fall_normal_part2: Your score was
   fall_force_base: Your parkour game has ended because
   fall_force_reasons_teleport: " you teleported."
-  fall_force_reasons_afk: " You went AFK."
+  fall_force_reasons_afk: " you went AFK."
   made_first_jump: You made your first jump!
   you_jumped_part1: You jumped
   you_jumped_part2: times!
