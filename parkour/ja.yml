@@ -1,1 +1,30 @@
-{}
+parkour:
+  prefix: パルクール
+  alreadyin: すでにパルクールゲームの中に入力します!
+  start: パルクールを始めました!
+  score_part1: スコア
+  beatrecord_part1: ハイスコアを超えて
+  beatrecord_part2: おめでとう！
+  beatrecord_ingame_part2: ハイスコアが超えました！保ってください！
+  block: ダメ!
+  top_format_part2: ジャンプ
+  fall_normal_part1: 落下しました！
+  fall_normal_part2: スコアは
+  fall_force_base: パルクールゲームが終わりました、
+  fall_force_reasons_teleport: テレポートされたから。
+  fall_force_reasons_afk: AFKモードが始めました。
+  made_first_jump: 最初のジャンプしました！
+  you_jumped_part1: 合計ジャンプが
+  you_jumped_part2: 回！
+  selector:
+    name: ブロックセレクター
+    items:
+      random:
+        title: ランダムブロック
+        lore: ランダムブロックを選びます。
+      selected:
+        lore: 現在は選ぶブロック：
+      nextpage:
+        name: 次の
+      prevpage:
+        name: 前の
