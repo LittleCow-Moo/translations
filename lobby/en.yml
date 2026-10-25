@@ -28,6 +28,8 @@ lobby:
     stopped_chime: ' stopped the chime'
     is_back: ' is back'
     enter_afk: ' entered AFK status'
+    no_response_timeout_part1: ' has no response within '
+    no_response_timeout_part2: ' seconds.'
   error: Error
   hideitem:
     prefix: Player Visibility
