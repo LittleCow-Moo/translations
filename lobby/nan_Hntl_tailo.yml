@@ -26,6 +26,16 @@ lobby:
     stopped_chime: ' 共鈴聲關掉--ah'
     is_back: ' 轉來--ah'
     enter_afk: ' AFK--ah'
+    no_response_timeout_part1: ' 佇 '
+    no_response_timeout_part2: ' 秒內底無回應'
+    set_bell_sound_to: 已經共呼叫--ê鈴聲改做
+    bell_sound_default: (預設)
+    calling: '這馬當咧叫 '
+    time_depends_on_player_setting: ，鈴聲會響偌久是AFK--ê奕者伊決定--ê
+    seconds: 秒
+    no_player_in_room: AFK 房間內底無奕者
+    no_one_calling_you: 這馬無人佇咧叫你
+    set_timeout_to: 已經共呼叫--ê時間改做
   error: 錯誤
   hideitem:
     prefix: 奕者顯示
