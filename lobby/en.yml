@@ -30,6 +30,15 @@ lobby:
     enter_afk: ' entered AFK status'
     no_response_timeout_part1: ' has no response within '
     no_response_timeout_part2: ' seconds.'
+    set_bell_sound_to: Set the calling bell sound to
+    bell_sound_default: (Default)
+    calling: 'Calling '
+    time_depends_on_player_setting: ", the duration will depend on the AFK player's
+      configured time"
+    seconds: seconds
+    no_player_in_room: There are no players in the AFK room
+    no_one_calling_you: Nobody is calling you right now
+    set_timeout_to: Set the calling timeout to
   error: Error
   hideitem:
     prefix: Player Visibility
