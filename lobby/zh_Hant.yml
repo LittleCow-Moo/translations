@@ -26,6 +26,16 @@ lobby:
     stopped_chime: ' 停止了鈴聲'
     is_back: ' 回來了'
     enter_afk: ' 進入 AFK 狀態'
+    set_bell_sound_to: 已將呼叫鈴聲設為
+    bell_sound_default: (預設)
+    calling: '正在呼叫 '
+    time_depends_on_player_setting: ，持續時間將取決於掛機玩家設置的時間
+    seconds: 秒
+    no_player_in_room: 掛機室中沒有玩家
+    no_one_calling_you: 目前沒有人呼叫你
+    set_timeout_to: 已將呼叫時間設為
+    no_response_timeout_part1: ' 在 '
+    no_response_timeout_part2: ' 秒內沒有回應'
   error: 錯誤
   hideitem:
     prefix: 玩家顯示
