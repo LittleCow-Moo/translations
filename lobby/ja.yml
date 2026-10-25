@@ -4,7 +4,7 @@ lobby:
     normal:
       name: 普通
       line1:
-        part2: ' のパルクールゲームを85％終わるおめでとう！'
+        part2: ' のパルクールゲームを85％終わっておめでとう！'
         part1: ' '
       line2: それでは、ボタンを押してください!
     impossible:
@@ -18,7 +18,7 @@ lobby:
       part2: ' がサーバを退出しましたから、AFK モードは終わりました'
     afk_failed: AFKが失敗した
     removed_from_afk_room:
-      part1: '現在のAFKユーザ '
+      part1: '現在のAFKユーザー '
       part2: ' はAFKロビーから出させられました'
     no_response_timeout: ' さんは20秒で返信しませんでした'
     storage_corrupted_repairing: AFK ストレージシステムが破損した，自動修理しています...
@@ -26,6 +26,16 @@ lobby:
     stopped_chime: ' さんは鐘を止めました'
     is_back: ' さんは帰りました'
     enter_afk: ' さんはAFKモードを始めました'
+    no_response_timeout_part1: ' さんは '
+    no_response_timeout_part2: ' 秒で返信しませんでした'
+    bell_sound_default: (デフォルト)
+    calling: 'AFKユーザー '
+    time_depends_on_player_setting: をコールしています、コール時間はAFKユーザー設定した時間
+    seconds: 秒間
+    no_player_in_room: AFK屋で誰にもいません
+    no_one_calling_you: 現在は誰もコールしていません
+    set_bell_sound_to: コール効果音は
+    set_timeout_to: コール時間は
   error: エラー
   hideitem:
     prefix: プレーヤーを表示
@@ -42,7 +52,7 @@ lobby:
   hubpvp:
     prefix: ロビーPvP
     sword_of_pvp: PvPの剣
-    hold_to_enable_pvp: この剣をもって、PvPが始めます!
+    hold_to_enable_pvp: この剣を持って、PvPが始めます!
     pvp_enabled: PvP は始めました!
     pvp_enabling:
       part1: PvP が
@@ -72,7 +82,7 @@ lobby:
     on_cooldown: また明日!今日はもうおみくじを使いました!
     part1: 今日のおみくじ
     part2: さんの運勢はこちら
-    part3: 籤を神社に結びました。厄をここに納め、穏やかに過ごしましょう。
+    part3: 籤を神社に結びました。厄をここに納め、穏やかに過ごしましょう
     type: 運勢
     great_blessing: 大吉
     middle_blessing: 中吉
@@ -133,7 +143,7 @@ lobby:
       '45': 静かな環境で心を落ち着かせよう。
       '46': 平凡な日常こそが、最大の幸福。
       '47': 初心を忘れなければ、道は開ける。
-      '48': 一歩一歩、自分の歩幅で歩もう。
+      '48': 一歩一歩、自分の歩幅で歩もう
       '49': 小さな喜びを重ねることが大切。
       '50': 誠意を持って接すれば、思いは伝わる。
       '51': 人のために動くことが、自分の糧となる。
