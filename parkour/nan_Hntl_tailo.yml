@@ -1,1 +1,30 @@
-{}
+parkour:
+  prefix: 跑酷
+  alreadyin: 你已經佇跑酷內底--ah!
+  start: 開始跑酷!
+  score_part1: 分數
+  beatrecord_part1: 恭喜!
+  beatrecord_part2: 你拄才破你進前--ê紀錄
+  beatrecord_ingame_part2: 你拄才破你進前--ê紀錄--ah!繼續加油!
+  block: 袂使!
+  top_format_part2: 擺跳躍
+  fall_normal_part1: 你落落去--ah!
+  fall_normal_part2: 你--ê分數是
+  fall_force_base: 你--ê跑酷回合結束--ah，因為
+  fall_force_reasons_teleport: 你傳送--ah
+  fall_force_reasons_afk: 你 AFK--ah。
+  made_first_jump: 你跳第一擺--ah!
+  you_jumped_part1: 你跳
+  you_jumped_part2: 擺--ah!
+  selector:
+    name: 方塊選單
+    items:
+      random:
+        title: 隨機--ê方塊
+        lore: 會隨機選一个方塊予你。
+      selected:
+        lore: 這馬選--ê是
+      nextpage:
+        name: 向前一頁
+      prevpage:
+        name: 轉去一頁
