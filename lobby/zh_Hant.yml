@@ -34,6 +34,10 @@ lobby:
     no_one_calling_you: 目前沒有人呼叫你
     no_response_timeout_part1: ' 在 '
     no_response_timeout_part2: ' 秒內沒有回應'
+    set_bell_sound_to_part1: 已將呼叫鈴聲設為
+    set_bell_sound_to_part2: ' '
+    set_timeout_to_part1: 已將呼叫時間設為
+    set_timeout_to_part2: ' '
   error: 錯誤
   hideitem:
     prefix: 玩家顯示
