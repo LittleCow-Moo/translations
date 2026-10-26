@@ -34,6 +34,10 @@ lobby:
     seconds: 秒
     no_player_in_room: AFK 房間內底無奕者
     no_one_calling_you: 這馬無人佇咧叫你
+    set_timeout_to_part2: ' '
+    set_bell_sound_to_part1: 已經共呼叫--ê鈴聲改做
+    set_bell_sound_to_part2: ' '
+    set_timeout_to_part1: 已經共呼叫--ê時間改做
   error: 錯誤
   hideitem:
     prefix: 奕者顯示
