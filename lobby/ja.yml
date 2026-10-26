@@ -34,8 +34,6 @@ lobby:
     seconds: 秒
     no_player_in_room: AFK屋で誰にもいません
     no_one_calling_you: 現在は誰もコールしていません
-    set_bell_sound_to: コール効果音は
-    set_timeout_to: コール時間は
   error: エラー
   hideitem:
     prefix: プレーヤーを表示
