@@ -30,7 +30,7 @@ jobs:
         run: |
           for component in */; do
             component="${component%/}"
-            zip -r "${component}.zip" "${component}"
+            (cd "${component}" && zip -r "../${component}.zip" .)
           done
 
       - name: Upload ZIP artifacts
