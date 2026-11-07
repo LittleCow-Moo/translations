@@ -16,7 +16,7 @@ lobby:
     auto_disable_leave:
       part1: '現在のAFKユーザー '
       part2: ' がサーバを退出しましたから、AFK モードは終わりました'
-    afk_failed: AFKが失敗した
+    afk_failed: AFKが失敗しました
     removed_from_afk_room:
       part1: '現在のAFKユーザー '
       part2: ' はAFKロビーから出させられました'
