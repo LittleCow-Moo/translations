@@ -32,7 +32,7 @@ lobby:
     calling: 'AFKユーザー '
     time_depends_on_player_setting: をコールしています、コール時間はAFKユーザー設定した時間
     seconds: 秒
-    no_player_in_room: AFK屋で誰にもいません
+    no_player_in_room: AFK屋に誰もいません
     no_one_calling_you: 現在は誰もコールしていません
     set_bell_sound_to_part1: コール効果音は
     set_bell_sound_to_part2: ' に設定されていました '
