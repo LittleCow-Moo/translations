@@ -1,1 +1,22 @@
-{}
+lobby:
+  parkour:
+    prefix: 大堂跑酷
+    normal:
+      name: 普通模式
+      line1:
+        part1: '恭喜你完成了85%的 '
+      line2: 点按以继续
+    impossible:
+      name: 不得为
+  afk:
+    prefix: 离开键盘
+    no_afk_players: 目前没有离开键盘的玩家
+    auto_disable_leave:
+      part1: '离开键盘被禁用，因为离开键盘的玩家 '
+    afk_failed: 无法进入离开键盘
+    removed_from_afk_room:
+      part1: '玩家离开键盘 '
+      part2: ' 已被移出离开键盘房间'
+    storage_corrupted_repairing: 疑难解答正在离开您的键盘存储系统，请稍后...
+    storage_repaired: 疑难解答已离开您的键盘存储系统，请重试
+    is_back: ' 回来了'
